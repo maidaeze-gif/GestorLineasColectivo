@@ -1,0 +1,4 @@
+1;Linea 1;Terminal A - Centro - Terminal B
+2;Linea 2;Barrio Norte - Centro - Barrio Sur
+3;Linea 3;Estacion - Universidad - Parque
+
